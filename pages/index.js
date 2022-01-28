@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="A Wedding Weeding Welcome!" />
+        <Header title="The Wedding Weeding Welcome has changed!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
