@@ -14,10 +14,9 @@ export default function Home() {
       <main>
         <Header title="A Rush Hour Collab Special" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Please Type in Your Name
         </p>
       </main>
-
       <Footer />
     </div>
   )
